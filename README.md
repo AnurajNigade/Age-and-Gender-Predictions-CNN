@@ -2,6 +2,7 @@
 
 The "Age-and-Gender-Predictions-CNN" project is a deep learning application that uses Convolutional Neural Networks (CNNs) to predict the age and gender of individuals from image data. CNNs are a class of deep learning models that are highly effective for analyzing visual imagery. They are designed to automatically and adaptively learn spatial hierarchies of features from the provided training data.
 
+# Features 
 In this project, the CNN model is trained on a large dataset of images that are labeled with the age and gender of the individuals in the images. The model learns to extract important features from these images and uses these features to make predictions about the age and gender of unseen individuals.
 
 The project demonstrates the power and effectiveness of CNNs in handling complex image data and making accurate predictions. It also highlights the use of deep learning techniques in real-world applications, providing a practical example of how these advanced machine learning techniques can be used to solve complex tasks in the field of computer vision.
